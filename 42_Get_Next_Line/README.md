@@ -11,7 +11,8 @@ The function to implement is called get_next_line, and it has the following prot
 | char *get_next_line(int fd); |
 |------------------------------|
 
-![Brainstorming (3)](https://github.com/MaddiMo/get_next_line/assets/114074329/337cc204-0717-4f9c-a435-52a37b29f7dd)
+For a better understanding, I have created my own Flow Chart diagraman which explains the sequential steps of the process of my project. 
+![Brainstorming (1)](https://github.com/MaddiMo/42_School/assets/114074329/40eb37d9-3142-4ed0-8554-8989d885dc13)
 
 
 Things to take into account:
