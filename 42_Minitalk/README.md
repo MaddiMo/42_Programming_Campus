@@ -1,8 +1,7 @@
-# Minitalk
-
 ## Introduction
 
-In this project, I had to create a programme where, through UNIX binary signal transmission a message is sent from a Client to a Server.
+In this project, I had to create a programme using UNIX binary signal transmission where characters are converted to binary, to send a message/emoticon (😎) from a Client to a Server.
+
 
 ### Mandatory
 
@@ -19,4 +18,7 @@ In this project, I had to create a programme where, through UNIX binary signal t
  - kill
  - usleep
 
-![Brainstorming (1)](https://github.com/MaddiMo/42_Programming_Campus/blob/main/42_Minitalk/Minitalk.png)
+
+<p align="center">
+   <img src="https://github.com/MaddiMo/42_Programming_Campus/blob/main/42_Minitalk/Minitalk.png" width=82% height=82%/>
+</p>
