@@ -8,7 +8,7 @@ In this project, I had to create a programme using UNIX binary signal transmissi
    - Create *server* & *client* executables
    - Only allowed the use of *SIGURS1* & *SIGURS2* signals
 
-### Allowed functions ... I used
+### Allowed functions ...  *I used*
 
  - write
  - free
